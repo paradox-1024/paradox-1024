@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paradox-1024
-- 👀 I’m interested in AI Robits
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
